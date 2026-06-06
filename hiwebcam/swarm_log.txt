@@ -1,0 +1,13 @@
+2026-06-04 20:55:49,600  INFO      Checking dependencies...
+2026-06-04 20:55:49,771  INFO        opencv  OK  (4.13.0)
+2026-06-04 20:55:50,347  INFO        mediapipe OK
+2026-06-04 20:55:50,393  INFO        pygame  OK  (2.6.1)
+2026-06-04 20:55:50,393  INFO        numpy   OK  (2.4.6)
+2026-06-04 20:55:50,393  INFO      Initialising Pygame...
+2026-06-04 20:55:50,977  INFO      Display: 1536x864
+2026-06-04 20:55:51,066  INFO      Swarm: 6000 particles
+2026-06-04 20:55:51,163  INFO      HandLandmarker ready.
+2026-06-04 20:55:51,164  INFO      Opening webcam 0...
+2026-06-04 20:55:51,520  INFO      Webcam OK.
+2026-06-04 20:55:51,521  INFO      Ready.
+2026-06-04 20:56:13,730  INFO      Shutting down...
